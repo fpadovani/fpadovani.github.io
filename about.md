@@ -3,8 +3,8 @@ layout: page
 title: About
 ---
 
-Hello.
+Hello :)
 
-This will be your About page. Anything about you, it should be written here in details. You may describe your bio here like who you are, what you do, your intention, social site hyperlinks and how people can contact you, etc.
+I am a first year PhD Candidate at the Center for Language and Cognition (CLCG) at the University of Groningen (NL). My work is done under the supervision of [Arianna Bisazza](https://www.cs.rug.nl/~bisazza/) and the co-supervision of [Yevgen Matusevych](https://yevgen.web.rug.nl/). 
+The VIDI project I will working, funded by the Dutch Research Council (NWO), focuses on improving language modeling for (low-resource) morphologically rich languages, taking inspiration from child language acquisition research.
 
-**Less is more..**
