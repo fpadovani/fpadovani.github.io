@@ -16,7 +16,7 @@ While I am mainly busy shaping my early researcher profile, I don't miss any opp
 </div>
 
 <div style="text-align: center;">
-  <img src="/imgs/gloves.jpg" alt="Handcrafted fingerless gloves" style="display: block; margin: 0 auto; width:300px;">
+  <img src="/imgs/gloves2.jpg" alt="Handcrafted fingerless gloves" style="display: block; margin: 0 auto; width:300px;">
   <p style="text-align: center;"><em>Handcrafted fingerless gloves</em></p>
 </div>
 
