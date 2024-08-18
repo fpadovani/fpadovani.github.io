@@ -11,7 +11,7 @@ While I am mainly busy shaping my early researcher profile, I don't miss any opp
 
 
 <div style="text-align: center;">
-  <img src="/imgs/bike.jpg" alt="My fully equipped bike" style="display: block; margin: 0 auto; width:300px;">
+  <img src="/imgs/bike2.jpg" alt="My fully equipped bike" style="display: block; margin: 0 auto; width:300px;">
   <p style="text-align: center;"><em>My fully equipped bike</em></p>
 </div>
 
