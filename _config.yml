@@ -2,7 +2,7 @@
 title:              "Francesca Padovani"
 description:        "personal webpage"
 author_name:        "Francesca Padovani" # change this to your name
-logo_url:           https://avatars.githubusercontent.com/u/73943560?v=4 # Get it from GitHub API: https://api.github.com/users/<username>
+logo_url:           /imgs/me1.jpg # Get it from GitHub API: https://api.github.com/users/<username>
 
 # Site Settings
 url:                https://fpadovani.github.io # main url
