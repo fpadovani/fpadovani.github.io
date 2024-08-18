@@ -13,9 +13,9 @@ While I am mainly busy shaping my early researcher profile, I don't miss any opp
 
 
 
-![My fully equipped bike](/assets/imgs/profile.jpg)
+![My fully equipped bike](/imgs/bike.jpg)
 
-![Handcrafted fingerless gloves](/imgs/)
+![Handcrafted fingerless gloves](/imgs/gloves.jpg)
 
 
 
