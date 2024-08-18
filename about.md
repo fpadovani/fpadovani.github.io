@@ -1,10 +1,15 @@
 ---
 layout: page
-title: About
+title: More about me
 ---
 
 Hello :)
 
-I am a first year PhD Candidate in the Computational Linguistic Group at the [Center for Language and Cognition (CLCG)](https://www.rug.nl/research/clcg/research/cl/), the University of Groningen (NL). My research is done under the supervision of [Arianna Bisazza](https://www.cs.rug.nl/~bisazza/) and the co-supervision of [Yevgen Matusevych](https://yevgen.web.rug.nl/). 
-The VIDI project I will working on, funded by the Dutch Research Council (NWO), focuses on improving language modeling for (low-resource) morphologically rich languages, taking inspiration from child language acquisition insights.
+I am an Italian girl who recently moved to Groningen, I started doing research again after a long year break working for a private company in Italy. I am very excited to get back into language cognition and language models, I am looking forward to be able to give my contribution to make them really “Truly PolyGlot” and more inclusive. 
+
+While I am mainly busy shaping my early researcher profile, I don't miss any opportunity to get up on my bicycle, read transfeminist novels and essays, and crochet little crafts for myself and all my dear close friends and family *.*
+
+
+
+
 
