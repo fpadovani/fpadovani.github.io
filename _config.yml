@@ -2,12 +2,12 @@
 title:              "Francesca Padovani"
 description:        "personal webpage"
 author_name:        "Francesca Padovani" # change this to your name
-logo_url:           https://avatars.githubusercontent.com/u/18502002?v=4 # Get it from GitHub API: https://api.github.com/users/<username>
+logo_url:           https://avatars.githubusercontent.com/u/73943560?v=4 # Get it from GitHub API: https://api.github.com/users/<username>
 
 # Site Settings
-url:                https://evaportelance.github.io # main url
+url:                https://fpadovani.github.io # main url
 permalink:          /:title # Post permalink
-timezone:           America/Los_Angeles # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:           Europe/Amsterdam # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 mathjax:            true  # enables support for mathjax - set to 'false' to disable
 
 # Site Build
