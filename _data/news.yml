@@ -1,4 +1,9 @@
-- date: "2024-03-01"
-  title: "Paper accepted at ACL!"
-- date: "2024-02-15"
-  title: "Invited talk at XYZ University"
+- date: "from 30.03.2025 to 04.04.2025"
+  title: "ALPS Winter School in Aussois (French Alps)"
+  corpus: "I will attend the Speech and Natural Language Processing winter school in the Alps and present a poster on my current research."
+
+- date: "26/27.03.2025"
+  title: "HumanCLAIM Workshop Göttingen - Germany"
+  corpus: "On the 26th and 27th of March I will attend the HumanCLAIM Workshop and I will present a poster 'What is the real benefit of using Child Directed Language for
+Language Modeling?' on my ongoing research"
+
