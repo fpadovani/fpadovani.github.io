@@ -1,0 +1,17 @@
+---
+layout: page
+title: Teaching
+---
+
+<section>
+  <h2>Courses I Teach</h2>
+  <ul>
+    {% for course in site.data.courses %}
+      <li>
+        <strong>Date:</strong> from {{ course.date_from }} to {{ course.date_to }}<br>
+        <strong>Role:</strong> {{ course.role }}<br>
+        <strong>Course:</strong> {{ course.course_name }} ({{ course.program }} at {{ course.university }})
+      </li>
+    {% endfor %}
+  </ul>
+</section>
