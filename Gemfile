@@ -6,3 +6,10 @@ end
 gem 'html-proofer'
 gem 'tzinfo'
 gem 'tzinfo-data'
+gem "jekyll-remote-theme"
+gem 'jekyll', '~> 3.8', '>= 3.8.6'
+gem 'csv'
+gem 'logger'
+gem 'base64'
+gem 'github-pages'
+gem 'rexml'
