@@ -13,7 +13,7 @@ title: Francesca Padovani
 		<h2>News</h2>
 		<ul>
 			{% for news in site.data.news limit:5 %}
-			<li>{{ news.date }} - {{ news.title }} - {{ news.corpus }}</li>
+			<li>{{ news.date }} - <strong>{{ news.title }}</strong> - {{ news.corpus }}</li>
 			{% endfor %}
 		</ul>
 		<a href="./old_news.html">View all news</a>
