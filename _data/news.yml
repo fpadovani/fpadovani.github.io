@@ -3,7 +3,13 @@
   corpus: "I will attend the Speech and Natural Language Processing winter school in the Alps and present a poster on my current research."
 
 - date: "26/27.03.2025"
-  title: "HumanCLAIM Workshop Göttingen - Germany"
+  title: "HumanCLAIM Workshop Göttingen (Germany)"
   corpus: "On the 26th and 27th of March I will attend the HumanCLAIM Workshop and I will present a poster 'What is the real benefit of using Child Directed Language for
 Language Modeling?' on my ongoing research"
+
+- date: "13.03.2025"
+  title: "InCLoW Reading Group Presentation"
+  corpus: "I gave a presentation for my colleagues during a session of the internal InCLoW (Interpretable, Cognitively inspired, and Low-resource language modeling) Reading Group. I presented the paper 'Between Circuits and Chomsky: pre-pretraining on formal languages imparts linguistic biases' by Michael Y. Hu et al., 2025. You can find the slides <a href='pdfs/InCLoW_RG_13_march.pdf' target='_blank'>here</a>. "
+
+
 
