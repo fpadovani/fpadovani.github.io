@@ -3,32 +3,66 @@ layout: default
 title: Francesca Padovani
 ---
 
-<article class="content-container">
-    
-    <!-- Left Side: News Section -->
-    <aside class="news-section">
-        <h2>News</h2>
-        <ul>
-            {% for news in site.data.news limit:5 %}
-            <li>{{ news.date }} - {{ news.title }}</li>
-            {% endfor %}
-        </ul>
-        <a href="./old_news.html">View all news</a>
-    </aside>
+<article>
 
-    <!-- Right Side: Introduction & Bio -->
-    <section class="bio-section">
-        <h1 class="title">{{ page.title }}</h1>
-        <div class="divider"></div>
-        <p>
-            Hi! I am a first-year PhD student in the Computational Linguistics Group at the 
-            <a href="https://www.rug.nl/research/clcg/research/cl/">Center for Language and Cognition (CLCG)</a>, 
-            University of Groningen (NL). My research is supervised by 
-            <a href="https://www.cs.rug.nl/~bisazza/">Arianna Bisazza</a> and co-supervised by 
-            <a href="https://yevgen.web.rug.nl/">Yevgen Matusevych</a>. 
-        </p>
-    </section>
+	<h1 class="title">{{ page.title }}</h1>
+
+	<div class="divider"></div>
+
+    <section>
+		<h2>News</h2>
+		<ul>
+			{% for news in site.data.news limit:5 %}
+			<li>{{ news.date }} - {{ news.title }} - {{ news.corpus }}</li>
+			{% endfor %}
+		</ul>
+		<a href="./old_news.html">View all news</a>
+	</section>
+    
+
+		<section>
+			<!-- <h1>Hello, <span class="nl"></span>we are here to help you.</h1> -->
+			<p>
+			Hi! I am a first year PhD Student of the Computational Linguistic Group at the <a href="https://www.rug.nl/research/clcg/research/cl/">Center for Language and Cognition (CLCG)</a>, the University of Groningen (NL). My research is done under the supervision of <a href="https://www.cs.rug.nl/~bisazza/">Arianna Bisazza </a> and the co-supervision of <a href="https://yevgen.web.rug.nl/"> Yevgen Matusevych</a>. The VIDI project I am working on, funded by the Dutch Research Council (NWO), focuses on improving language modeling for (low-resource) morphologically rich languages, taking inspiration from child language acquisition insights.
+			</p>
+			<div class="divider"></div>
+			<p>
+			 My research experience has been quite diverse, in line with the hybrid nature of my education. I have a humanistic background, since did classical studies during my high school (learning Latin and Ancient Greek). 
+			I then completed my Bachelor's degree in Psychology at the University of Trieste (Italy) and carried out my undergraduate internship in the Language,Learning and Reading Lab of the Cognitive Neuroscience Unit at SISSA, led by <a href= "https://phdcns.sissa.it/faculty/davide-crepaldi">Davide Crepaldi</a>. 
+			I then pursued a Master's degree in Data Science at the University of Trento (Italy). For my Master thesis I spent 6 months in the Language group of the <a href= "https://csl.sony.fr/">Computer Science Lab Sony</a> in Paris, where I was supervised by <a href= "https://csl.sony.fr/member/martina-galletti/">Martina Galletti</a> and <a href= "https://csl.sony.fr/member/remi-van-trijp-phd/">Remi van Trijp</a> as 
+			part of a project aimed at building a multimedia interface to support Italian children with Learning Disabilities during therapy with speech therapists.
+			</p>
+		</section>
+
+		
+
+		<section>
+			<div>
+				<ul>
+				<li>
+					<a href="./research.html"><h4>Research</h4></a>
+				</li>
+				<li>
+					<a href="./education.html"><h4>Education</h4></a>
+				</li>
+				<li>
+				<a href="./contact.html"><h4>Contact</h4></a>
+				</li>
+				<!--
+				<li>
+					<a href="./pdfs/EPortelance_AcademicCV.pdf"><h4>CV</h4></a>
+				</li> -->
+				</ul>
+			</div>
+		</section>
 
 </article>
+<!-- <section>
+	<div>
+		<a href="./404">
+		<h4>Posts</h4>
+		</a>
+	</div>
+</section> -->
 
 
