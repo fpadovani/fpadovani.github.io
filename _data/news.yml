@@ -1,10 +1,11 @@
 - date: "12-13 June 2025"
   title: TabuDAG Conference, CLCG, University of Groningen 
-  corpus: I will attend TabuDAG and present the result of my first paper with an oral presentation on the 12th of June, 2.00 p.m. Find the full program at [TabuDAG](https://www.tabudag.nl/).
+  corpus: "I will attend TabuDAG and present the result of my first paper with an oral presentation on the 12th of June, 2.00 p.m. Find the full program at <a href= 'https://www.tabudag.nl/' target='_blank'>TabuDAG</a>."
 
 - date: "May 2025"
   title: "EMNLP Sumbission"
-  corpus: I submitted my first paper to the ACL Rolling Review. The title is "Child-Directed Language Does Not Consistently Boost Syntax Learning in Language Models" and it is now available on arXiv: https://arxiv.org/abs/2505.23689
+  corpus: "I submitted my first paper to the ACL Rolling Review. The title is "Child-Directed Language Does Not Consistently Boost Syntax Learning in Language Models" and it is now available on <a href='https://arxiv.org/abs/2505.23689' target='_blank'>arXiv</a>."
+
 - date: "from 30.03.2025 to 04.04.2025"
   title: "ALPS Winter School in Aussois (French Alps)"
   corpus: "I will attend the Speech and Natural Language Processing winter school in the Alps and present a poster on my current research."
