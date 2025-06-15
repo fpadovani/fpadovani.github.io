@@ -5,9 +5,8 @@ title: More about me
 
 Hello :)
 
-I am an Italian who recently moved to Groningen, I started doing research again after a long year break working for a private company in Italy. I am very excited to get back into language cognition and language models, I am looking forward to be able to give my contribution to make them really “Truly PolyGlot” and more inclusive. 
-
-While I am mainly busy shaping my early researcher career, I don't miss any opportunity to get up on my bicycle, read novels and essays (most of them transfeminist), crochet little crafts for myself and all my dear close friends. And of course shoot with my Pentax K1000 *.*
+I’m an Italian researcher recently relocated to Groningen, where I’ve returned to academia after a year-long break working in the private sector back home. I’m thrilled to dive back into the fascinating world of language cognition and computational models of language. My current focus is on contributing to the development of truly polyglot and inclusive language technologies—systems that better reflect the diversity and complexity of real-world language use.
+When I am out of the office, you’ll likely find me on my bike exploring the city, immersed in a novel or a transfeminist essay, or crafting small crochet projects for myself and my closest friends. And whenever I can, I love to capture moments on film with my trusty Pentax K1000. *.*
 
 
 <div style="text-align: center;">
