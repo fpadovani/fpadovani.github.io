@@ -7,9 +7,9 @@ Hello :)
 
 I am Francesca, a first-year PhD student in the [InClow group](https://inclow-lm.github.io/) in Groningen. My research sits at the intersection of language acquisition and language modeling: I am interested in how infants learn and process language, and in how child-directed input can be leveraged to train cognitively more plausible models. More broadly, I aim to contribute to the development of polyglot and inclusive language technologies that reflect the diversity and richness of real-world linguistic variety.
 
-I feel grateful to be part of such a wonderful, ever-growing research environment, surrounded by colleagues whose curiosity and generosity make every day stimulating and rewarding.
+I feel grateful to be part of such a wonderful, ever-growing research environment, surrounded by colleagues whose curiosity and generosity make every day stimulating and rewarding!
 
-Outside of research, I enjoy exploring the city by bike, reading novels and transfeminist essays, and making small crochet projects for friends and myself. I also love capturing everyday life on film with my Pentax K1000 *.*. 
+Outside of research, I enjoy exploring the city by bike, reading novels and transfeminist essays, and making small crochet projects for friends and myself. I also love capturing everyday life on film with my Pentax K1000 :))
 
 
 <div style="text-align: center;">
