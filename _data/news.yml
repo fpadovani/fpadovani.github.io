@@ -1,6 +1,18 @@
+- date: "20 August 2025"
+  title: "2 papers accepted at EMNLP 2025"
+  corpus: "We received notification of acceptance of my submitted paper and the one that I co-authored with my lab mates and the Master student Ezgi Başar on the development of a Turkish Minimal Pair dataset to evaluate the formal competence of Turkish LMs."
+
+- date: "14 August 2025"
+  title: "BabyLM Challenge 2025 Submission"
+  corpus: "Together with other researchers from Bielefeld University, we submitted a paper for the third edition of the <a href= 'https://babylm.github.io/' target='_blank'>BabyLM Challenge/a>."
+
+- date: "28 July 2025"
+  title: "BabyBabelLM Submission"
+  corpus: "We submitted a project that started from the grassroots level and involved around 30 researchers from around the world to create the first multilingual dataset of developmentally plausible data." 
+
 - date: "12 June 2025"
   title: "InCLoW Reading Group Presentation"
-  corpus: "I presented two inspiring papers for my research; both use Reinforcement Learning to finetune models, but with two different tasks and types of rewards. Check the slides <a href='pdfs/InCLoW Reading Group 13th June_.pdf' target='_blank'>here</a>. "
+  corpus: "I presented two inspiring papers for my research; both use Reinforcement Learning to finetune models, but with different tasks and types of rewards. Check the slides <a href='pdfs/InCLoW Reading Group 13th June_.pdf' target='_blank'>here</a>. "
 
 - date: "12-13 June 2025"
   title: "TabuDAG Conference, CLCG, University of Groningen"
