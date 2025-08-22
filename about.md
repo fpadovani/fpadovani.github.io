@@ -5,8 +5,11 @@ title: More about me
 
 Hello :)
 
-I’m an Italian researcher recently relocated to Groningen, where I’ve returned to academia after a year-long break working in the private sector back home. I’m thrilled to dive back into the fascinating world of language cognition and computational models of language. My current focus is on contributing to the development of truly polyglot and inclusive language technologies—systems that better reflect the diversity and complexity of real-world language use.
-When I am out of the office, you’ll likely find me on my bike exploring the city, immersed in a novel or a transfeminist essay, or crafting small crochet projects for myself and my closest friends. And whenever I can, I love to capture moments on film with my trusty Pentax K1000. *.*
+I am Francesca, a first-year PhD student in the InClowd group in Groningen. My research sits at the intersection of language acquisition and language modeling: I am interested in how infants learn and process language, and in how child-directed input can be leveraged to train cognitively more plausible models. More broadly, I aim to contribute to the development of polyglot and inclusive language technologies that reflect the diversity and richness of real-world linguistic variety.
+
+I feel grateful to be part of such a wonderful, ever-growing research environment, surrounded by colleagues whose curiosity and generosity make every day stimulating and rewarding.
+
+Outside of research, I enjoy exploring the city by bike, reading novels and transfeminist essays, and making small crochet projects for friends and myself. I also love capturing everyday life on film with my Pentax K1000 *.*. 
 
 
 <div style="text-align: center;">
