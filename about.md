@@ -5,7 +5,7 @@ title: More about me
 
 Hello :)
 
-I am Francesca, a first-year PhD student in the InClowd group in Groningen. My research sits at the intersection of language acquisition and language modeling: I am interested in how infants learn and process language, and in how child-directed input can be leveraged to train cognitively more plausible models. More broadly, I aim to contribute to the development of polyglot and inclusive language technologies that reflect the diversity and richness of real-world linguistic variety.
+I am Francesca, a first-year PhD student in the [InClow group](https://inclow-lm.github.io/) in Groningen. My research sits at the intersection of language acquisition and language modeling: I am interested in how infants learn and process language, and in how child-directed input can be leveraged to train cognitively more plausible models. More broadly, I aim to contribute to the development of polyglot and inclusive language technologies that reflect the diversity and richness of real-world linguistic variety.
 
 I feel grateful to be part of such a wonderful, ever-growing research environment, surrounded by colleagues whose curiosity and generosity make every day stimulating and rewarding.
 
