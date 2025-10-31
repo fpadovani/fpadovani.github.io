@@ -1,3 +1,14 @@
+- date: "4-9 November 2025"
+  title: "Find me at EMNLP 2025!"
+
+- date: "25 September 2025"
+  title: "InCLoW Reading Group Presentation"
+  corpus: "I presented the paper "Developmentally-plausible Working Memory Shapes a Critical Period for Language Acquisition" by Masato Mita, Ryo Yoshida, Yohei Oseki. You can find the slides <a href= 'https://drive.google.com/file/d/1N63foMHic4IKpuFkL-jLKmjYn5GhT31i/view?usp=sharing' target='_blank'>here</a>."
+
+- date: "6 September 2025"
+  title: "Accepted BabyLM Challenge Paper"
+  corpus: "Collaboration between my group (InCLow) and the CLAUSE group from the University of Bielefeld. You can find the paper <a href= 'https://arxiv.org/pdf/2510.20358' target='_blank'>here</a>."
+
 - date: "20 August 2025"
   title: "2 papers accepted at EMNLP 2025"
   corpus: "We received notification of acceptance of my submitted paper and the one that I co-authored with my lab mates and the Master student Ezgi Başar on the development of a Turkish Minimal Pair dataset to evaluate the formal competence of Turkish LMs."
