@@ -2,3 +2,19 @@
 layout: page      
 title: Talks
 ---
+
+<section>
+  <h2>Talks</h2>
+  <ul>
+    {% for talk in site.data.talks %}
+      <li>
+        <strong>Date:</strong> {{ talk.date }}<br>
+        <strong>Title:</strong> {{ talk.title }}<br>
+        <strong>Paper:</strong> <em>{{ talk.paper }}</em> by {{ talk.authors }}<br>
+        {% if talk.slides %}
+          <a href="{{ talk.slides }}" target="_blank">Slides</a>
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+</section>
