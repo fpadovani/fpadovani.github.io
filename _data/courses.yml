@@ -6,8 +6,15 @@
   university: "RUG (University of Groningen)"
 
 - course_name: "Computational Grammar"
-  role: "Teaching Assistant and Guest Lecture"
+  role: "Teaching Assistant and Lecturer"
   date_from: "February 2026"
   date_to: "April 2026"
   program: "Bachelor's Course in Information Science"
+  university: "RUG (University of Groningen)"
+
+- course_name: "Advanced Topics in NLP"
+  role: "Teaching Assistant"
+  date_from: "February 2026"
+  date_to: "April 2026"
+  program: "Master Course in Information Science"
   university: "RUG (University of Groningen)"
