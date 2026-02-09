@@ -1,9 +1,4 @@
-- course_name: "Computational Grammar"
-  role: "Teaching Assistant"
-  date_from: "February 2025"
-  date_to: "April 2025"
-  program: "Bachelor's Course in Information Science"
-  university: "RUG (University of Groningen)"
+
 
 - course_name: "Computational Grammar"
   role: "Teaching Assistant and Lecturer"
@@ -17,4 +12,11 @@
   date_from: "February 2026"
   date_to: "April 2026"
   program: "Master Course in Information Science"
+  university: "RUG (University of Groningen)"
+
+- course_name: "Computational Grammar"
+  role: "Teaching Assistant"
+  date_from: "February 2025"
+  date_to: "April 2025"
+  program: "Bachelor's Course in Information Science"
   university: "RUG (University of Groningen)"
