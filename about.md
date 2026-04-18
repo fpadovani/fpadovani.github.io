@@ -10,6 +10,7 @@ I am Francesca, a second-year PhD student in the [InClow group](https://inclow-l
 I feel grateful to be part of such a wonderful, ever-growing research environment, surrounded by colleagues whose curiosity and generosity make every day stimulating and rewarding!
 
 Outside of research, I enjoy exploring the city and the surroundings by bike, reading novels and transfeminist essays, and making small crochet projects for friends and myself. I also love capturing everyday life on film with my Pentax K1000 :))
+I also enjoy creative writing, and at the start of 2026 I opened a <a href='https://substack.com/@francescap114935' target='_blank'>Substack</a> where I publish whatever I write outside of work, have a look if you'd like!
 
 
 <div style="text-align: center;">
