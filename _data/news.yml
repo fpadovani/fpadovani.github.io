@@ -1,5 +1,15 @@
+- date: "April 2026"
+  title: "Auxiliary paper in preparation for the annual IEEE Conference on Games (IEEE CoG) 2026, in Madrid next September"
+  corpus: "Together with Malvina Nissim (GroNLP) we are starting to structurally evaluating the experience of assembling a puzzle about conversational chatbots and GenAI and in the meantime we are introducing the project with an auxiliary paper. Have a look at the <a href= 'https://aipuzzle.io/' target='_blank'>website</a>" 
+
+
+- date: "April 2026"
+  title: "New conference paper accepted at CogSci 2026"
+  corpus: "The second work of my PhD <em>Is Child-Directed Language Optimized for Word Learning? A Computational Study of Verb Meaning Acquisition</em> has been accepted for an oral presentation at the next edition of CogSci in Rio de Janeiro next summer."
+
 - date: "January 2026"
-  title: "This year I am part of the organizing committee of TabuDAG 2026. Here's the updated <a href= 'https://www.tabudag.nl/' target='_blank'>website</a>. with the conference dates. Soon we will publish the Call for Abstract. Stay tuned!"
+  title: "This year I am part of the organizing committee of TabuDAG 2026."
+  corpus: "Here's the updated <a href= 'https://www.tabudag.nl/' target='_blank'>website</a>. with the conference dates."
 
 - date: "4-9 November 2025"
   title: "Find me at EMNLP 2025!"
