@@ -1,6 +1,16 @@
+- date: "August-September 2026"
+  title: "Last Translation Benchmark v1 is out!"
+  corpus: "I enjoyed so much being involved into the first release of the Last Translation Benchmark both as a contributor and as a reviewer. You can read the manuscript at <a href= 'https://arxiv.org/abs/2609.04173' target='_blank'>Arxiv</a>.
+
+
+- date: "August 2026"
+  title: "Non-archival paper accepted at BabyLM Workshop 2026!"
+  corpus: "We introduce an ongoing work I have been involved with Bastian Bunzeck on comparing synthetic (automatically generated) vs natural child-caregiver conversations. We peopose a new instruction-tuning generation method with data created from real dialogue."
+
+
 - date: "May 2026"
-  title: "New pre-print out. Paper submitted to CLiC-it 2026"
-  corpus: "Together with Sara Candussio and Daniel Scalena we had fun evaluating LLMs on the Taboo game in Italian :) Check out it on  <a href= '' target='_blank'>Arxiv</a>." 
+  title: "New pre-print out. Paper accepted at CLiC-it 2026 (oral presentation)"
+  corpus: "Together with Sara Candussio and Daniel Scalena we had fun evaluating LLMs on the Taboo game in Italian :) Check out it on  <a href= 'https://arxiv.org/abs/2607.00601' target='_blank'>Arxiv</a>." 
 
 
 - date: "April 2026"
