@@ -5,11 +5,9 @@ title: More about me
 
 Hello :)
 
-I am Francesca, a second-year PhD student in the [InClow group](https://inclow-lm.github.io/) in Groningen. My research sits at the intersection of language acquisition and language modeling: I am interested in how infants learn and process language, and how child-directed input can be leveraged to train more cognitively plausible models. My project has a specific focus on Morphologically Rich Languages. More broadly, I aim to contribute to the development of polyglot and inclusive language technologies that reflect the richness of real-world linguistic heterogeneity.
+I am Francesca, a third-year PhD student in the [InClow group](https://inclow-lm.github.io/) in Groningen. My research sits at the intersection of language acquisition and language modeling. I am interested in how infants learn and process language, and how child-directed input and useful inductive biases can help models learn language from limited data, a question I also explore using formal and artificial languages as controlled testbeds. My interests have increasingly moved towards cognitively plausible and multilingual modeling and the creation of resources for low-resource languages. More broadly, I aim to contribute to the development of polyglot and inclusive language technologies that reflect the richness of real-world linguistic heterogeneity.
 
-I feel grateful to be part of such a wonderful, ever-growing research environment, surrounded by colleagues whose curiosity and generosity make every day stimulating and rewarding!
-
-Outside of research, I enjoy exploring the city and the surroundings by bike, reading novels and transfeminist essays, and making small crochet projects for friends and myself. I also love capturing everyday life on film with my Pentax K1000 :))
+Outside of work, I love dancing, foraging, and exploring the city and its surroundings by bike. I also enjoy reading novels and transfeminist intersectional essays, making small crochet projects for friends and myself, and capturing everyday life on film with my Pentax K1000 :))
 I also enjoy creative writing, and at the start of 2026 I opened a <a href='https://substack.com/@francescap114935' target='_blank'>Substack</a> where I publish whatever I write outside of work, have a look if you'd like!
 
 
